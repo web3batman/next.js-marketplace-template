@@ -1,6 +1,6 @@
 ## Next.js Marketplace
 
-Now updated to connect to the new dashboard and [Cosmic JavaScript SDK](https://www.npmjs.com/package/@cosmicjs/sdk). [Read the article](https://www.cosmicjs.com/blog/4-steps-to-update-the-nextjs-marketplace-template) to learn about the latest updates.
+Now updated to connect to the new dashboard and [Cosmic JavaScript SDK](https://www.npmjs.com/package/@cosmicjs/sdk).
 
 The Next.js Marketplace is a template that you can use to start your own digital art marketplace. Download for free.
 
